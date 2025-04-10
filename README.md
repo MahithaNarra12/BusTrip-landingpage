@@ -12,16 +12,22 @@ This project is a single-page, front-end layout that represents a basic bus tick
 ## 🛠️ Technologies Used
 
   HTML – for semantic and structured content
+  
   CSS3 – for styling and responsive design
+  
   Visual Studio Code – development environment
 
 
 ## 🧱 Key Features
 
  🎨 Clean and modern UI design
+ 
  📱 Mobile-friendly and fully responsive layout
+ 
  🧾 Form inputs for "From", "To", and "Date"
+ 
  💡 Embedded CSS within the HTML file for simplicity
+ 
  🧼 Easy to understand and modify for beginners
 
 
